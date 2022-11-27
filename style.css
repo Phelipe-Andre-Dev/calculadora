@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(70, 68, 68);
+
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+
+#form{
+    text-align: center;
+    
+}
+
+input{
+    width: 500px;
+    height: 30px;
+}
+
+#selector{
+    width: 50px;
+    height: 30px;
+    
+}
+
+button{
+    width: 400px;
+    height: 50px;
+    font-size: 1.5em;
+    background-color: rgb(12, 213, 12);
+    color: white;
+    border: none;
+    
+
+}
+button:hover{
+    background-color: rgb(8, 148, 8);
+}
+
+h2{
+    color: white;
+
+}
